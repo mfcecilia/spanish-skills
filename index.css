@@ -1,1 +1,48 @@
-index.css
+#header {
+    background-color: crimson;
+    padding: 5%;
+    margin: auto;
+    text-align: center;
+}
+
+#learn {
+    background-color: coral;
+    padding: 5%;
+    margin: auto;
+    text-align: center;
+}
+
+#question {
+    background-color:bisque;
+    padding: 5%;
+    margin: auto;
+    text-align: center;
+}
+
+#hint {
+    background-color:darkseagreen;
+    padding: 5%;
+    margin: auto;
+    text-align: center;
+}
+
+#answer {
+    background-color:cornflowerblue;
+    padding: 5%;
+    margin: auto;
+    text-align: center;
+}
+
+#result {
+    background-color:darkorchid;
+    padding: 5%;
+    margin: auto;
+    text-align: center;
+}
+
+#footer {
+    background-color:fuchsia;
+    padding: 5%;
+    margin: auto;
+    text-align: center;
+}
