@@ -1,0 +1,36 @@
+#learn-btn {
+    padding:inherit;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    width: 40%;
+    cursor: pointer;
+}
+
+#question-view {
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+    display: none;
+}
+
+#hint-btn {
+    padding:inherit;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#hint-view {
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#results-view {
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
